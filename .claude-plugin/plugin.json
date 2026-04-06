@@ -1,0 +1,8 @@
+{
+  "name": "bitbucket-code-review",
+  "description": "Automated code review for Bitbucket Cloud pull requests using multiple specialized agents with confidence-based scoring",
+  "author": {
+    "name": "Yoonjong Shin",
+    "url": "https://github.com/yoonjong12"
+  }
+}
