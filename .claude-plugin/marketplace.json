@@ -1,0 +1,11 @@
+{
+  "name": "bitbucket-code-review",
+  "owner": { "name": "yoonjong12" },
+  "plugins": [
+    {
+      "name": "bitbucket-code-review",
+      "source": "./",
+      "description": "Automated code review for Bitbucket Cloud pull requests"
+    }
+  ]
+}
