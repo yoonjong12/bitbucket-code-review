@@ -6,13 +6,9 @@ Forked from [Anthropic's official code-review plugin](https://github.com/anthrop
 
 ## Installation
 
-```bash
-/plugin install bitbucket-code-review@yoonjong12
 ```
-
-Or install from local path:
-```bash
-/plugin install /path/to/bitbucket-code-review
+/plugin marketplace add yoonjong12/bitbucket-code-review
+/plugin install bitbucket-code-review@bitbucket-code-review
 ```
 
 ## Prerequisites
