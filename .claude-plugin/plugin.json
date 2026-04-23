@@ -1,6 +1,6 @@
 {
   "name": "bitbucket-code-review",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Automated code review for Bitbucket Cloud pull requests using multiple specialized agents with confidence-based scoring",
   "author": {
     "name": "Yoonjong Shin",
